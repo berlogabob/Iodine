@@ -1,5 +1,5 @@
 
-def one():
+def one_acid():
 
     N = float(input("Какое количесто двойных связей в жирной кислоте? "))
     print("Количесто двойных связей в жирной кислоте %g " % (N))
@@ -12,4 +12,4 @@ def one():
     print("Йодное число этой одной жирной кислоты %g "% (odna_kislota))
     
    # return odna_kislota
-one()
+one_acid()
