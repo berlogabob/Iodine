@@ -1,9 +1,5 @@
 acid_list=[]
 ###
-
-
-
-
 def acidls():
     summ = one_acid()
     acid_list.append(summ)
@@ -38,6 +34,5 @@ def question():
         question()
         ###
 question()
-acidls()
 ###
 input("Для выхода нажмите клавишу Enter")
